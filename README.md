@@ -29,9 +29,6 @@ Created as a personal project to improve collection management, deck organizatio
 ## 🛠️ Tech Stack
 
 - Python
-- JavaScript
-- GitHub
-- JSON / Deck parsing
 
 ---
 
